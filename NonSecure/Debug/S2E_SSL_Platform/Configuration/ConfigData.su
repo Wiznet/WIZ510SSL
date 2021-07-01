@@ -1,0 +1,17 @@
+ConfigData.c:28:12:get_DevConfig_pointer	0	static
+ConfigData.c:33:6:set_DevConfig_to_factory_value	48	static
+ConfigData.c:204:6:load_DevConfig_from_storage	24	static
+ConfigData.c:236:6:save_DevConfig_to_storage	1304	static
+ConfigData.c:268:6:get_DevConfig_value	0	static
+ConfigData.c:273:6:set_DevConfig_value	0	static
+ConfigData.c:278:6:set_DevConfig	0	static
+ConfigData.c:291:6:get_DevConfig	0	static
+ConfigData.c:304:6:display_Net_Info	48	static
+ConfigData.c:360:6:Mac_Conf	0	static
+ConfigData.c:366:6:Net_Conf	40	static
+ConfigData.c:385:6:set_dhcp_mode	0	static
+ConfigData.c:391:6:set_static_mode	0	static
+ConfigData.c:397:6:set_mac	0	static
+ConfigData.c:404:6:check_mac_address	56	static
+ConfigData.c:447:9:get_hex	0	static
+ConfigData.c:458:6:atonum	0	static

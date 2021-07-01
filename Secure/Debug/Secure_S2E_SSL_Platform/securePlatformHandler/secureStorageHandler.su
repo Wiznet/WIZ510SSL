@@ -1,0 +1,8 @@
+secureStorageHandler.c:25:6:key_init	4	static
+secureStorageHandler.c:34:10:key_get	0	static
+secureStorageHandler.c:39:10:cal_enc_len	0	static
+secureStorageHandler.c:49:5:encrypt_aes_128	320	static
+secureStorageHandler.c:81:5:decrypt_aes_128	320	static
+secureStorageHandler.c:112:5:secure_read_storage	24	static
+secureStorageHandler.c:150:5:secure_write_storage	8	static
+secureStorageHandler.c:196:5:secure_erase_storage	8	static

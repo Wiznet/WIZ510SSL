@@ -1,0 +1,10 @@
+wizchipHandler.c:244:14:wizchip_spi_write	24	static
+wizchipHandler.c:234:14:wizchip_spi_select	0	static
+wizchipHandler.c:239:14:wizchip_spi_deselect	0	static
+wizchipHandler.c:249:16:wizchip_spi_read	24	static
+wizchipHandler.c:55:6:WIZnet_Chip_Init	16	static
+wizchipHandler.c:146:6:WIZCHIP_Reset_Init	0	static
+wizchipHandler.c:151:6:WIZCHIP_INT_Init	0	static
+wizchipHandler.c:156:6:WIZCHIP_HW_Reset	8	static
+wizchipHandler.c:201:6:WIZCHIP_SPI_DeInit	0	static
+wizchipHandler.c:207:6:WIZCHIP_SPI_CS_Init	0	static

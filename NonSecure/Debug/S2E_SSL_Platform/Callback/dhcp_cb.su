@@ -1,0 +1,2 @@
+dhcp_cb.c:5:6:wizchip_dhcp_assign	32	static
+dhcp_cb.c:31:6:wizchip_dhcp_conflict	0	static

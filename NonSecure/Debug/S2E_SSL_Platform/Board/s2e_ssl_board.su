@@ -1,0 +1,15 @@
+s2e_ssl_board.c:28:6:s2e_ssl_Board_Init	16	static,ignoring_inline_asm
+s2e_ssl_board.c:69:9:get_phylink	8	static
+s2e_ssl_board.c:75:6:init_hw_trig_pin	0	static
+s2e_ssl_board.c:82:9:get_hw_trig_pin	8	static
+s2e_ssl_board.c:96:6:init_uart_if_sel_pin	0	static
+s2e_ssl_board.c:113:9:get_uart_if_sel_pin	0	static
+s2e_ssl_board.c:175:6:init_tcpconnection_status_pin	8	static
+s2e_ssl_board.c:210:6:init_factory_reset_pin	0	static,ignoring_inline_asm
+s2e_ssl_board.c:216:9:get_factory_reset_pin	0	static
+s2e_ssl_board.c:222:9:process_check_factory_reset	16	static
+s2e_ssl_board.c:310:6:LED_Init	24	static
+s2e_ssl_board.c:326:6:LED_On	0	static
+s2e_ssl_board.c:340:6:LED_Off	0	static
+s2e_ssl_board.c:354:6:LED_Toggle	0	static
+s2e_ssl_board.c:360:9:get_LED_Status	0	static

@@ -1,0 +1,3 @@
+storageHandler.c:21:10:read_storage	4	static
+storageHandler.c:51:10:write_storage	8	static
+storageHandler.c:92:6:erase_storage	24	static

@@ -1,0 +1,8 @@
+stm32l5xx_it.c:71:6:MemManage_Handler	0	static
+stm32l5xx_it.c:86:6:UsageFault_Handler	0	static
+stm32l5xx_it.c:101:6:SVC_Handler	0	static
+stm32l5xx_it.c:114:6:PendSV_Handler	0	static
+stm32l5xx_it.c:127:6:SysTick_Handler	0	static
+stm32l5xx_it.c:148:6:EXTI4_IRQHandler	0	static
+stm32l5xx_it.c:162:6:TIM2_IRQHandler	0	static
+stm32l5xx_it.c:176:6:USART1_IRQHandler	0	static

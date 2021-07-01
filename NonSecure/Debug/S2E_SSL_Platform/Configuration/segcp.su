@@ -1,0 +1,13 @@
+segcp.c:118:6:segcp_ret_handler	24	static
+segcp.c:249:6:set_segcp_uart	0	static
+segcp.c:255:9:get_segcp_uart	0	static
+segcp.c:261:9:parse_SEGCP	40	static
+segcp.c:372:10:proc_SEGCP	592	static
+segcp.c:1411:10:proc_SEGCP_udp	584	static
+segcp.c:1502:10:proc_SEGCP_tcp	312	static
+segcp.c:1615:10:proc_SEGCP_uart	48	static
+segcp.c:96:6:do_segcp	16	static
+segcp.c:1646:6:set_SEGCP_privilege	0	static
+segcp.c:1662:10:uart_get_commandline	32	static
+segcp.c:1722:6:send_keepalive_packet_configtool	0	static
+segcp.c:1731:6:segcp_timer_msec	0	static

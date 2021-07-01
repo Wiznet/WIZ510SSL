@@ -1,0 +1,2 @@
+SSL_Random.c:11:6:RandomSeeding	0	static
+SSL_Random.c:17:5:SSLRandomCB	16	static

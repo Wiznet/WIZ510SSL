@@ -1,0 +1,2 @@
+base64.c:71:5:mbedtls_base64_encode	36	static
+base64.c:138:5:mbedtls_base64_decode	32	static

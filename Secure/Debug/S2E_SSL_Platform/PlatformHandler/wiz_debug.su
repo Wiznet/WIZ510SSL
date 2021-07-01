@@ -1,0 +1,3 @@
+wiz_debug.c:44:6:WIZ_SECURE_printf.constprop	2064	static
+wiz_debug.c:44:6:WIZ_SECURE_printf	2072	static
+wiz_debug.c:60:6:PRT_DUMP	16	static

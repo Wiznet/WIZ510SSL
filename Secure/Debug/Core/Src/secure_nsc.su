@@ -1,0 +1,6 @@
+secure_nsc.c:51:20:SECURE_RegisterCallback	0	static
+secure_nsc.c:85:20:SECURE_printf	8	static
+secure_nsc.c:93:19:SECURE_FLASH_WRITE	16	static
+secure_nsc.c:99:19:SECURE_FLASH_READ	8	static
+secure_nsc.c:104:19:SECURE_FLASH_ERASE	8	static
+secure_nsc.c:110:23:SECURE_Get_Running_Bank	0	static

@@ -1,0 +1,7 @@
+util.c:8:9:is_ipaddr	48	static
+util.c:51:9:is_hexstr	8	static
+util.c:63:9:is_hex	0	static
+util.c:107:9:str_to_hex	16	static
+util.c:77:9:is_macaddr	48	static
+util.c:141:6:_mid	24	static
+util.c:156:6:a2A	16	static

@@ -1,0 +1,4 @@
+stm32l5xx_hal_rng_ex.c:95:19:HAL_RNGEx_SetConfig	24	static
+stm32l5xx_hal_rng_ex.c:194:19:HAL_RNGEx_GetConfig	12	static
+stm32l5xx_hal_rng_ex.c:243:19:HAL_RNGEx_LockConfig	4	static
+stm32l5xx_hal_rng_ex.c:302:19:HAL_RNGEx_RecoverSeedError	0	static

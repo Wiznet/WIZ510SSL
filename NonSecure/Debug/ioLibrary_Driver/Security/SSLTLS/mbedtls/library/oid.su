@@ -1,0 +1,14 @@
+oid.c:242:1:mbedtls_oid_get_attr_short_name	24	static
+oid.c:285:1:mbedtls_oid_get_x509_ext_type	24	static
+oid.c:300:1:mbedtls_oid_get_extended_key_usage	24	static
+oid.c:309:1:mbedtls_oid_get_certificate_policies	0	static
+oid.c:416:1:mbedtls_oid_get_sig_alg_desc	24	static
+oid.c:417:1:mbedtls_oid_get_sig_alg	24	static
+oid.c:418:1:mbedtls_oid_get_oid_by_sig_alg	12	static
+oid.c:450:1:mbedtls_oid_get_pk_alg	24	static
+oid.c:451:1:mbedtls_oid_get_oid_by_pk_alg	8	static
+oid.c:567:1:mbedtls_oid_get_cipher_alg	24	static
+oid.c:638:1:mbedtls_oid_get_md_alg	24	static
+oid.c:639:1:mbedtls_oid_get_oid_by_md	8	static
+oid.c:684:1:mbedtls_oid_get_md_hmac	24	static
+oid.c:727:5:mbedtls_oid_get_numeric_string	40	static

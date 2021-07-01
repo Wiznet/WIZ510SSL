@@ -1,0 +1,13 @@
+psa_crypto_driver_wrappers.c:60:14:psa_driver_wrapper_sign_hash	0	static
+psa_crypto_driver_wrappers.c:153:14:psa_driver_wrapper_verify_hash	0	static
+psa_crypto_driver_wrappers.c:314:14:psa_driver_wrapper_generate_key	0	static
+psa_crypto_driver_wrappers.c:413:14:psa_driver_wrapper_validate_key	0	static
+psa_crypto_driver_wrappers.c:444:14:psa_driver_wrapper_cipher_encrypt	0	static
+psa_crypto_driver_wrappers.c:511:14:psa_driver_wrapper_cipher_decrypt	0	static
+psa_crypto_driver_wrappers.c:578:14:psa_driver_wrapper_cipher_encrypt_setup	0	static
+psa_crypto_driver_wrappers.c:659:14:psa_driver_wrapper_cipher_decrypt_setup	0	static
+psa_crypto_driver_wrappers.c:740:14:psa_driver_wrapper_cipher_generate_iv	0	static
+psa_crypto_driver_wrappers.c:777:14:psa_driver_wrapper_cipher_set_iv	0	static
+psa_crypto_driver_wrappers.c:810:14:psa_driver_wrapper_cipher_update	0	static
+psa_crypto_driver_wrappers.c:855:14:psa_driver_wrapper_cipher_finish	0	static
+psa_crypto_driver_wrappers.c:892:14:psa_driver_wrapper_cipher_abort	0	static

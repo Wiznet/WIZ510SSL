@@ -1,0 +1,5 @@
+flashHandler.c:19:10:write_flash	32	static,ignoring_inline_asm
+flashHandler.c:80:10:read_flash	12	static
+flashHandler.c:97:8:erase_flash_page	48	static,ignoring_inline_asm
+flashHandler.c:132:10:GetPage	8	static
+flashHandler.c:155:10:GetBank	0	static

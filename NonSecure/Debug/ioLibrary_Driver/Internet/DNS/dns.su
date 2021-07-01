@@ -1,0 +1,11 @@
+dns.c:125:10:get16	0	static
+dns.c:134:11:put16	0	static
+dns.c:152:5:parse_name	36	static
+dns.c:213:11:dns_question	104	static
+dns.c:239:11:dns_answer	120	static
+dns.c:334:8:parseDNSMSG	120	static
+dns.c:412:9:dns_makequery	128	static
+dns.c:473:8:check_DNS_timeout	0	static
+dns.c:494:6:DNS_init	8	static
+dns.c:502:8:DNS_run	72	static
+dns.c:557:6:DNS_time_handler	0	static

@@ -1,0 +1,15 @@
+timerHandler.c:49:6:TIM1_Configuration	0	static
+timerHandler.c:74:6:TIM2_Configuration	48	static
+timerHandler.c:40:6:Timer_Configuration	8	static
+timerHandler.c:111:6:HAL_TIM_PeriodElapsedCallback	32	static,ignoring_inline_asm
+timerHandler.c:188:6:delay_ms	0	static
+timerHandler.c:194:8:getDevtime	0	static
+timerHandler.c:199:6:setDevtime	0	static
+timerHandler.c:204:8:millis	0	static
+timerHandler.c:209:8:getNow	0	static
+timerHandler.c:214:6:setNow	0	static
+timerHandler.c:219:10:getDeviceUptime_day	0	static
+timerHandler.c:224:9:getDeviceUptime_hour	0	static
+timerHandler.c:229:9:getDeviceUptime_min	0	static
+timerHandler.c:234:9:getDeviceUptime_sec	0	static
+timerHandler.c:239:10:getDeviceUptime_msec	0	static

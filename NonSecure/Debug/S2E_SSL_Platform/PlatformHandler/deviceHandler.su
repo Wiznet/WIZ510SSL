@@ -1,0 +1,16 @@
+deviceHandler.c:323:10:get_firmware_from_network.constprop	32	static
+deviceHandler.c:55:6:device_set_factory_default	8	static
+deviceHandler.c:62:6:device_socket_termination	8	static
+deviceHandler.c:71:6:device_reboot	8	static,ignoring_inline_asm
+deviceHandler.c:87:9:device_appboot_update	48	static
+deviceHandler.c:172:9:device_bank_update	48	static
+deviceHandler.c:295:6:reset_fw_update_timer	8	static
+deviceHandler.c:310:10:get_any_port	0	static
+deviceHandler.c:323:10:get_firmware_from_network	40	static
+deviceHandler.c:421:6:display_Dev_Info_header	32	static
+deviceHandler.c:440:6:display_Dev_Info_main	24	static
+deviceHandler.c:542:6:display_Dev_Info_dhcp	8	static
+deviceHandler.c:554:6:display_Dev_Info_dns	40	static
+deviceHandler.c:577:8:process_dhcp	24	static
+deviceHandler.c:624:8:get_ntp_time	32	static
+deviceHandler.c:660:6:wdt_reset	0	static

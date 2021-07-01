@@ -1,0 +1,2 @@
+netbios.c:138:6:do_netbios	64	static
+netbios.c:215:6:set_netbios_devname	0	static
